@@ -1,4 +1,4 @@
-# Converts Python variables to C variables and vice versa
+# Save and load vars, functions, objects ...
 
 
 ### How to save the global vars (or any other variable)
