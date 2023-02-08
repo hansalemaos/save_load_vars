@@ -1,6 +1,6 @@
 # Save and load vars, functions, objects ...
 
-
+#### pip install save-load-vars
 ### How to save the global vars (or any other variable)
 ```python
 # Create a file
